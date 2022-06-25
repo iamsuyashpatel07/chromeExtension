@@ -1,4 +1,4 @@
-import {get } from "express/lib/response";
+// import {get } from "express/lib/response";
 import { getActiveTabURL } from "./utils.js";
 // adding a new bookmark row to the popup
 const addNewBookmark = (bookmarksElement, bookmark) => {
